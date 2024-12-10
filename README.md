@@ -1,1 +1,3 @@
-# alx_be_shell
+#!/bin/bash
+ alx_be_shell
+
